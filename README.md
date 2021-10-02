@@ -1,7 +1,7 @@
 ### Oi, eu sou a Claudia!! 👋
 
 - 🔭 Atualmente buscando uma oportunidade de estágio como web developer ou cientista de dados
-- 🌱 Estudando front-end e ciência de dados
+- 🌱 Estudando Front-end, Python e Ciência de Dados!!
 
  <div>
   <a href="https://github.com/rafaballerini">
