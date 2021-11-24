@@ -1,6 +1,6 @@
 ### Oi, eu sou a Claudia!! 👋
 
-- 🔭 Atualmente buscando uma oportunidade de estágio como web developer ou cientista de dados
+- 🔭 Developer Internship at IBM
 - 🌱 Estudando Front-end, Python e Ciência de Dados!!
 
  <div>
