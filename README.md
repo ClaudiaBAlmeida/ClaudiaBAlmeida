@@ -1,7 +1,7 @@
 ### Oi, eu sou a Claudia!! 👋
 
-- 🔭 Developer Internship at IBM
-- 🌱 Estudando Front-end, Python e Ciência de Dados!!
+- 🔭 UX/UI Designer ai IBM
+- 🌱 Estudando Front-end e Python!!
 
  <div>
   <a href="https://github.com/rafaballerini">
